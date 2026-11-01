@@ -1,0 +1,4 @@
+- insert:
+    - id: env-doctor
+      name: dsh-env-doctor
+      config: {}
